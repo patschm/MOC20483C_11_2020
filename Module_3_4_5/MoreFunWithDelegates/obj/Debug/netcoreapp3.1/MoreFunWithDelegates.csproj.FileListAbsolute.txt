@@ -1,0 +1,13 @@
+E:\MOC20483C_11_2020\Module_3_4_5\MoreFunWithDelegates\bin\Debug\netcoreapp3.1\MoreFunWithDelegates.exe
+E:\MOC20483C_11_2020\Module_3_4_5\MoreFunWithDelegates\bin\Debug\netcoreapp3.1\MoreFunWithDelegates.deps.json
+E:\MOC20483C_11_2020\Module_3_4_5\MoreFunWithDelegates\bin\Debug\netcoreapp3.1\MoreFunWithDelegates.runtimeconfig.json
+E:\MOC20483C_11_2020\Module_3_4_5\MoreFunWithDelegates\bin\Debug\netcoreapp3.1\MoreFunWithDelegates.runtimeconfig.dev.json
+E:\MOC20483C_11_2020\Module_3_4_5\MoreFunWithDelegates\bin\Debug\netcoreapp3.1\MoreFunWithDelegates.dll
+E:\MOC20483C_11_2020\Module_3_4_5\MoreFunWithDelegates\bin\Debug\netcoreapp3.1\MoreFunWithDelegates.pdb
+E:\MOC20483C_11_2020\Module_3_4_5\MoreFunWithDelegates\obj\Debug\netcoreapp3.1\MoreFunWithDelegates.csprojAssemblyReference.cache
+E:\MOC20483C_11_2020\Module_3_4_5\MoreFunWithDelegates\obj\Debug\netcoreapp3.1\MoreFunWithDelegates.AssemblyInfoInputs.cache
+E:\MOC20483C_11_2020\Module_3_4_5\MoreFunWithDelegates\obj\Debug\netcoreapp3.1\MoreFunWithDelegates.AssemblyInfo.cs
+E:\MOC20483C_11_2020\Module_3_4_5\MoreFunWithDelegates\obj\Debug\netcoreapp3.1\MoreFunWithDelegates.csproj.CoreCompileInputs.cache
+E:\MOC20483C_11_2020\Module_3_4_5\MoreFunWithDelegates\obj\Debug\netcoreapp3.1\MoreFunWithDelegates.dll
+E:\MOC20483C_11_2020\Module_3_4_5\MoreFunWithDelegates\obj\Debug\netcoreapp3.1\MoreFunWithDelegates.pdb
+E:\MOC20483C_11_2020\Module_3_4_5\MoreFunWithDelegates\obj\Debug\netcoreapp3.1\MoreFunWithDelegates.genruntimeconfig.cache

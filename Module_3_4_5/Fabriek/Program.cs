@@ -8,12 +8,19 @@ namespace Fabriek
         {
             // Big bang
 
+            Radio r1 = new Radio();
             Schakelaar s1 = new Schakelaar();
             Lamp l1 = new LEDLamp { Lumen = 300, Kleur = ConsoleColor.Red, IsHalfGeleider=true };
+            Lamp l2 = new LEDLamp { Lumen = 300, Kleur = ConsoleColor.Yellow, IsHalfGeleider = true };
             //l1.Lumen = 500;
             //l1.kleur = ConsoleColor.Yellow;
 
-            s1.Device = l1;
+            //s1.Device = l1;
+            s1.funktieAan += l1.Aan;
+            s1.funktieAan += r1.Spelen;
+            s1.funktieAan += l2.Aan;
+
+            s1.funktieUit += l1.Uit;
 
             s1.Aan();
             Console.WriteLine("Schrijven");

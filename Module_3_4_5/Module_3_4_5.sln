@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30709.132
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomTypes", "CustomTypes\CustomTypes.csproj", "{A4CEF038-9F45-4F3F-B2B9-B761BBA2319A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomTypes", "CustomTypes\CustomTypes.csproj", "{A4CEF038-9F45-4F3F-B2B9-B761BBA2319A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fabriek", "Fabriek\Fabriek.csproj", "{2493DC06-74D2-4A6E-9058-6E4656D933DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fabriek", "Fabriek\Fabriek.csproj", "{2493DC06-74D2-4A6E-9058-6E4656D933DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreFunWithDelegates", "MoreFunWithDelegates\MoreFunWithDelegates.csproj", "{F2D73977-3AC6-406A-9CFE-0E3BB7F8BF03}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{2493DC06-74D2-4A6E-9058-6E4656D933DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2493DC06-74D2-4A6E-9058-6E4656D933DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2493DC06-74D2-4A6E-9058-6E4656D933DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2D73977-3AC6-406A-9CFE-0E3BB7F8BF03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2D73977-3AC6-406A-9CFE-0E3BB7F8BF03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2D73977-3AC6-406A-9CFE-0E3BB7F8BF03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2D73977-3AC6-406A-9CFE-0E3BB7F8BF03}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

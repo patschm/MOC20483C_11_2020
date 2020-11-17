@@ -10,17 +10,25 @@ namespace Fabriek
         void Uit();
     }
 
+    delegate void Activeer();
+
     class Schakelaar
     {
+        // Tis nu een event geworden
+        public event Activeer funktieAan;
+        public event Activeer funktieUit;
+
         public IDevice Device { get; set; }
 
         public void Aan()
         {
-            Device.Aan();
+            funktieAan.Invoke();
+            //Device.Aan();
         }
         public void Uit()
         {
-            Device.Uit();
+            funktieUit();
+            //Device.Uit();
         }
     }
 }
