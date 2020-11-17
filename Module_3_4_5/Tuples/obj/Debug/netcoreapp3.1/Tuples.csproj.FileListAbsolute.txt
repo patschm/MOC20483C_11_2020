@@ -1,0 +1,12 @@
+E:\MOC20483C_11_2020\Module_3_4_5\Tuples\bin\Debug\netcoreapp3.1\Tuples.exe
+E:\MOC20483C_11_2020\Module_3_4_5\Tuples\bin\Debug\netcoreapp3.1\Tuples.deps.json
+E:\MOC20483C_11_2020\Module_3_4_5\Tuples\bin\Debug\netcoreapp3.1\Tuples.runtimeconfig.json
+E:\MOC20483C_11_2020\Module_3_4_5\Tuples\bin\Debug\netcoreapp3.1\Tuples.runtimeconfig.dev.json
+E:\MOC20483C_11_2020\Module_3_4_5\Tuples\bin\Debug\netcoreapp3.1\Tuples.dll
+E:\MOC20483C_11_2020\Module_3_4_5\Tuples\bin\Debug\netcoreapp3.1\Tuples.pdb
+E:\MOC20483C_11_2020\Module_3_4_5\Tuples\obj\Debug\netcoreapp3.1\Tuples.AssemblyInfoInputs.cache
+E:\MOC20483C_11_2020\Module_3_4_5\Tuples\obj\Debug\netcoreapp3.1\Tuples.AssemblyInfo.cs
+E:\MOC20483C_11_2020\Module_3_4_5\Tuples\obj\Debug\netcoreapp3.1\Tuples.csproj.CoreCompileInputs.cache
+E:\MOC20483C_11_2020\Module_3_4_5\Tuples\obj\Debug\netcoreapp3.1\Tuples.dll
+E:\MOC20483C_11_2020\Module_3_4_5\Tuples\obj\Debug\netcoreapp3.1\Tuples.pdb
+E:\MOC20483C_11_2020\Module_3_4_5\Tuples\obj\Debug\netcoreapp3.1\Tuples.genruntimeconfig.cache

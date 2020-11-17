@@ -59,12 +59,12 @@ namespace LINQ
                         orderby p.LastName descending 
                         select p;
 
-            var q2 = from p in people group p by p.Age into q select new { Key = q.Key, Vals = q };
+            var q2 = from p in people group p by p.Age into q select q;
 
             foreach(var qq in q2)
             {
                 Console.WriteLine(qq.Key);
-                foreach(var item in qq.Vals)
+                foreach(var item in qq)
                 {
                     Console.WriteLine($"\t{item.FirstName}");
                 }
