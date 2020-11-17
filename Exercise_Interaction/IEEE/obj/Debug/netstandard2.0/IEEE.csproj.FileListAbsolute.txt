@@ -6,3 +6,4 @@ E:\MOC20483C_11_2020\Exercise_Interaction\IEEE\obj\Debug\netstandard2.0\IEEE.Ass
 E:\MOC20483C_11_2020\Exercise_Interaction\IEEE\obj\Debug\netstandard2.0\IEEE.csproj.CoreCompileInputs.cache
 E:\MOC20483C_11_2020\Exercise_Interaction\IEEE\obj\Debug\netstandard2.0\IEEE.dll
 E:\MOC20483C_11_2020\Exercise_Interaction\IEEE\obj\Debug\netstandard2.0\IEEE.pdb
+E:\MOC20483C_11_2020\Exercise_Interaction\IEEE\obj\Debug\netstandard2.0\IEEE.csprojAssemblyReference.cache

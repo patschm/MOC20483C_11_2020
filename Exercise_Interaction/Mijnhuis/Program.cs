@@ -15,7 +15,10 @@ namespace Mijnhuis
             Valkuil kuil = new Valkuil();
             Hek gate = new Hek();
 
-            lus.Connect(lamp, kuil, gate);
+            // lus.Connect(lamp, kuil, gate);
+            lus.Detecting += lamp.Aan;
+            lus.Detecting += kuil.Open;
+            lus.Detecting += gate.Open;
 
             lus.Detect();
         }

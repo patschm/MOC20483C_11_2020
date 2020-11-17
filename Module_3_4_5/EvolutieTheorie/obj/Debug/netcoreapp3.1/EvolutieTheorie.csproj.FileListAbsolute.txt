@@ -1,0 +1,13 @@
+E:\MOC20483C_11_2020\Module_3_4_5\EvolutieTheorie\bin\Debug\netcoreapp3.1\EvolutieTheorie.exe
+E:\MOC20483C_11_2020\Module_3_4_5\EvolutieTheorie\bin\Debug\netcoreapp3.1\EvolutieTheorie.deps.json
+E:\MOC20483C_11_2020\Module_3_4_5\EvolutieTheorie\bin\Debug\netcoreapp3.1\EvolutieTheorie.runtimeconfig.json
+E:\MOC20483C_11_2020\Module_3_4_5\EvolutieTheorie\bin\Debug\netcoreapp3.1\EvolutieTheorie.runtimeconfig.dev.json
+E:\MOC20483C_11_2020\Module_3_4_5\EvolutieTheorie\bin\Debug\netcoreapp3.1\EvolutieTheorie.dll
+E:\MOC20483C_11_2020\Module_3_4_5\EvolutieTheorie\bin\Debug\netcoreapp3.1\EvolutieTheorie.pdb
+E:\MOC20483C_11_2020\Module_3_4_5\EvolutieTheorie\obj\Debug\netcoreapp3.1\EvolutieTheorie.csprojAssemblyReference.cache
+E:\MOC20483C_11_2020\Module_3_4_5\EvolutieTheorie\obj\Debug\netcoreapp3.1\EvolutieTheorie.AssemblyInfoInputs.cache
+E:\MOC20483C_11_2020\Module_3_4_5\EvolutieTheorie\obj\Debug\netcoreapp3.1\EvolutieTheorie.AssemblyInfo.cs
+E:\MOC20483C_11_2020\Module_3_4_5\EvolutieTheorie\obj\Debug\netcoreapp3.1\EvolutieTheorie.csproj.CoreCompileInputs.cache
+E:\MOC20483C_11_2020\Module_3_4_5\EvolutieTheorie\obj\Debug\netcoreapp3.1\EvolutieTheorie.dll
+E:\MOC20483C_11_2020\Module_3_4_5\EvolutieTheorie\obj\Debug\netcoreapp3.1\EvolutieTheorie.pdb
+E:\MOC20483C_11_2020\Module_3_4_5\EvolutieTheorie\obj\Debug\netcoreapp3.1\EvolutieTheorie.genruntimeconfig.cache

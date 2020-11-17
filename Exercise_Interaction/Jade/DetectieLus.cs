@@ -4,11 +4,14 @@ using System.Collections.Generic;
 
 namespace Jade
 {
-   
+    public delegate void Activate();
 
     public class DetectieLus
     {
+        //public delegate void Activate();
+
         private List<IActivatable> _devices = new List<IActivatable>();
+        public event Activate Detecting;
 
         public void Connect(params IActivatable[] devices)
         {
@@ -18,10 +21,11 @@ namespace Jade
         public void Detect()
         {
             Console.WriteLine("De detectielus ziet iets");
-            foreach(IActivatable device in _devices)
-            {
-                device.Activate();
-            }
+            Detecting?.Invoke();
+            //foreach(IActivatable device in _devices)
+            //{
+            //    device.Activate();
+            //}
         }
     }
 }
