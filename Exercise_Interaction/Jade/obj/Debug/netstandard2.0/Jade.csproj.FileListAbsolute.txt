@@ -7,3 +7,6 @@ E:\MOC20483C_11_2020\Exercise_Interaction\Jade\obj\Debug\netstandard2.0\Jade.Ass
 E:\MOC20483C_11_2020\Exercise_Interaction\Jade\obj\Debug\netstandard2.0\Jade.csproj.CoreCompileInputs.cache
 E:\MOC20483C_11_2020\Exercise_Interaction\Jade\obj\Debug\netstandard2.0\Jade.dll
 E:\MOC20483C_11_2020\Exercise_Interaction\Jade\obj\Debug\netstandard2.0\Jade.pdb
+E:\MOC20483C_11_2020\Exercise_Interaction\Jade\bin\Debug\netstandard2.0\IEEE.dll
+E:\MOC20483C_11_2020\Exercise_Interaction\Jade\bin\Debug\netstandard2.0\IEEE.pdb
+E:\MOC20483C_11_2020\Exercise_Interaction\Jade\obj\Debug\netstandard2.0\Jade.csproj.CopyComplete

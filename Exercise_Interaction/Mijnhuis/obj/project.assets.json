@@ -5,6 +5,9 @@
       "DoomsdayPreppers/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "IEEE": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/DoomsdayPreppers.dll": {}
         },
@@ -15,6 +18,9 @@
       "Heras/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "IEEE": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Heras.dll": {}
         },
@@ -22,9 +28,22 @@
           "bin/placeholder/Heras.dll": {}
         }
       },
+      "IEEE/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/IEEE.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IEEE.dll": {}
+        }
+      },
       "Jade/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "IEEE": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Jade.dll": {}
         },
@@ -35,6 +54,9 @@
       "Philips/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "IEEE": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Philips.dll": {}
         },
@@ -54,6 +76,11 @@
       "type": "project",
       "path": "../Heras/Heras.csproj",
       "msbuildProject": "../Heras/Heras.csproj"
+    },
+    "IEEE/1.0.0": {
+      "type": "project",
+      "path": "../IEEE/IEEE.csproj",
+      "msbuildProject": "../IEEE/IEEE.csproj"
     },
     "Jade/1.0.0": {
       "type": "project",

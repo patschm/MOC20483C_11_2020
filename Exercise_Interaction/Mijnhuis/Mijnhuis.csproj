@@ -5,4 +5,11 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\DoomsdayPreppers\DoomsdayPreppers.csproj" />
+    <ProjectReference Include="..\Heras\Heras.csproj" />
+    <ProjectReference Include="..\Jade\Jade.csproj" />
+    <ProjectReference Include="..\Philips\Philips.csproj" />
+  </ItemGroup>
+
 </Project>

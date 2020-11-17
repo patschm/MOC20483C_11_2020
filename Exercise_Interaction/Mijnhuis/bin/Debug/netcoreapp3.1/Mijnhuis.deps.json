@@ -7,14 +7,82 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "Mijnhuis/1.0.0": {
+        "dependencies": {
+          "DoomsdayPreppers": "1.0.0",
+          "Heras": "1.0.0",
+          "Jade": "1.0.0",
+          "Philips": "1.0.0"
+        },
         "runtime": {
           "Mijnhuis.dll": {}
+        }
+      },
+      "DoomsdayPreppers/1.0.0": {
+        "dependencies": {
+          "IEEE": "1.0.0"
+        },
+        "runtime": {
+          "DoomsdayPreppers.dll": {}
+        }
+      },
+      "Heras/1.0.0": {
+        "dependencies": {
+          "IEEE": "1.0.0"
+        },
+        "runtime": {
+          "Heras.dll": {}
+        }
+      },
+      "IEEE/1.0.0": {
+        "runtime": {
+          "IEEE.dll": {}
+        }
+      },
+      "Jade/1.0.0": {
+        "dependencies": {
+          "IEEE": "1.0.0"
+        },
+        "runtime": {
+          "Jade.dll": {}
+        }
+      },
+      "Philips/1.0.0": {
+        "dependencies": {
+          "IEEE": "1.0.0"
+        },
+        "runtime": {
+          "Philips.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Mijnhuis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DoomsdayPreppers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Heras/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IEEE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Jade/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Philips/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

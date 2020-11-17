@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heras", "Heras\Heras.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoomsdayPreppers", "DoomsdayPreppers\DoomsdayPreppers.csproj", "{967BB616-6C41-4837-B351-2FC0696D6DF3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEEE", "IEEE\IEEE.csproj", "{260AF9CF-C590-4B2D-B5A3-F667FEA5C764}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{967BB616-6C41-4837-B351-2FC0696D6DF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{967BB616-6C41-4837-B351-2FC0696D6DF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{967BB616-6C41-4837-B351-2FC0696D6DF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{260AF9CF-C590-4B2D-B5A3-F667FEA5C764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{260AF9CF-C590-4B2D-B5A3-F667FEA5C764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{260AF9CF-C590-4B2D-B5A3-F667FEA5C764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{260AF9CF-C590-4B2D-B5A3-F667FEA5C764}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

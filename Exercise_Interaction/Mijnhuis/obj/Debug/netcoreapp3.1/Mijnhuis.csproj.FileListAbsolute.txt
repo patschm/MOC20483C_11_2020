@@ -11,3 +11,14 @@ E:\MOC20483C_11_2020\Exercise_Interaction\Mijnhuis\obj\Debug\netcoreapp3.1\Mijnh
 E:\MOC20483C_11_2020\Exercise_Interaction\Mijnhuis\obj\Debug\netcoreapp3.1\Mijnhuis.dll
 E:\MOC20483C_11_2020\Exercise_Interaction\Mijnhuis\obj\Debug\netcoreapp3.1\Mijnhuis.pdb
 E:\MOC20483C_11_2020\Exercise_Interaction\Mijnhuis\obj\Debug\netcoreapp3.1\Mijnhuis.genruntimeconfig.cache
+E:\MOC20483C_11_2020\Exercise_Interaction\Mijnhuis\bin\Debug\netcoreapp3.1\DoomsdayPreppers.dll
+E:\MOC20483C_11_2020\Exercise_Interaction\Mijnhuis\bin\Debug\netcoreapp3.1\Heras.dll
+E:\MOC20483C_11_2020\Exercise_Interaction\Mijnhuis\bin\Debug\netcoreapp3.1\Jade.dll
+E:\MOC20483C_11_2020\Exercise_Interaction\Mijnhuis\bin\Debug\netcoreapp3.1\Philips.dll
+E:\MOC20483C_11_2020\Exercise_Interaction\Mijnhuis\bin\Debug\netcoreapp3.1\DoomsdayPreppers.pdb
+E:\MOC20483C_11_2020\Exercise_Interaction\Mijnhuis\bin\Debug\netcoreapp3.1\Heras.pdb
+E:\MOC20483C_11_2020\Exercise_Interaction\Mijnhuis\bin\Debug\netcoreapp3.1\Jade.pdb
+E:\MOC20483C_11_2020\Exercise_Interaction\Mijnhuis\bin\Debug\netcoreapp3.1\Philips.pdb
+E:\MOC20483C_11_2020\Exercise_Interaction\Mijnhuis\obj\Debug\netcoreapp3.1\Mijnhuis.csproj.CopyComplete
+E:\MOC20483C_11_2020\Exercise_Interaction\Mijnhuis\bin\Debug\netcoreapp3.1\IEEE.dll
+E:\MOC20483C_11_2020\Exercise_Interaction\Mijnhuis\bin\Debug\netcoreapp3.1\IEEE.pdb
