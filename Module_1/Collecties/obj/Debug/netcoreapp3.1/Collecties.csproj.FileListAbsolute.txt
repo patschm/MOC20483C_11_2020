@@ -1,0 +1,13 @@
+E:\MOC20483C_11_2020\Module_1\Collecties\bin\Debug\netcoreapp3.1\Collecties.exe
+E:\MOC20483C_11_2020\Module_1\Collecties\bin\Debug\netcoreapp3.1\Collecties.deps.json
+E:\MOC20483C_11_2020\Module_1\Collecties\bin\Debug\netcoreapp3.1\Collecties.runtimeconfig.json
+E:\MOC20483C_11_2020\Module_1\Collecties\bin\Debug\netcoreapp3.1\Collecties.runtimeconfig.dev.json
+E:\MOC20483C_11_2020\Module_1\Collecties\bin\Debug\netcoreapp3.1\Collecties.dll
+E:\MOC20483C_11_2020\Module_1\Collecties\bin\Debug\netcoreapp3.1\Collecties.pdb
+E:\MOC20483C_11_2020\Module_1\Collecties\obj\Debug\netcoreapp3.1\Collecties.csprojAssemblyReference.cache
+E:\MOC20483C_11_2020\Module_1\Collecties\obj\Debug\netcoreapp3.1\Collecties.AssemblyInfoInputs.cache
+E:\MOC20483C_11_2020\Module_1\Collecties\obj\Debug\netcoreapp3.1\Collecties.AssemblyInfo.cs
+E:\MOC20483C_11_2020\Module_1\Collecties\obj\Debug\netcoreapp3.1\Collecties.csproj.CoreCompileInputs.cache
+E:\MOC20483C_11_2020\Module_1\Collecties\obj\Debug\netcoreapp3.1\Collecties.dll
+E:\MOC20483C_11_2020\Module_1\Collecties\obj\Debug\netcoreapp3.1\Collecties.pdb
+E:\MOC20483C_11_2020\Module_1\Collecties\obj\Debug\netcoreapp3.1\Collecties.genruntimeconfig.cache

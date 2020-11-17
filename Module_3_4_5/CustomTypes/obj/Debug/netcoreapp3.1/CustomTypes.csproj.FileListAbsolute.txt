@@ -1,0 +1,13 @@
+E:\MOC20483C_11_2020\Module_3_4_5\CustomTypes\bin\Debug\netcoreapp3.1\CustomTypes.exe
+E:\MOC20483C_11_2020\Module_3_4_5\CustomTypes\bin\Debug\netcoreapp3.1\CustomTypes.deps.json
+E:\MOC20483C_11_2020\Module_3_4_5\CustomTypes\bin\Debug\netcoreapp3.1\CustomTypes.runtimeconfig.json
+E:\MOC20483C_11_2020\Module_3_4_5\CustomTypes\bin\Debug\netcoreapp3.1\CustomTypes.runtimeconfig.dev.json
+E:\MOC20483C_11_2020\Module_3_4_5\CustomTypes\bin\Debug\netcoreapp3.1\CustomTypes.dll
+E:\MOC20483C_11_2020\Module_3_4_5\CustomTypes\bin\Debug\netcoreapp3.1\CustomTypes.pdb
+E:\MOC20483C_11_2020\Module_3_4_5\CustomTypes\obj\Debug\netcoreapp3.1\CustomTypes.csprojAssemblyReference.cache
+E:\MOC20483C_11_2020\Module_3_4_5\CustomTypes\obj\Debug\netcoreapp3.1\CustomTypes.AssemblyInfoInputs.cache
+E:\MOC20483C_11_2020\Module_3_4_5\CustomTypes\obj\Debug\netcoreapp3.1\CustomTypes.AssemblyInfo.cs
+E:\MOC20483C_11_2020\Module_3_4_5\CustomTypes\obj\Debug\netcoreapp3.1\CustomTypes.csproj.CoreCompileInputs.cache
+E:\MOC20483C_11_2020\Module_3_4_5\CustomTypes\obj\Debug\netcoreapp3.1\CustomTypes.dll
+E:\MOC20483C_11_2020\Module_3_4_5\CustomTypes\obj\Debug\netcoreapp3.1\CustomTypes.pdb
+E:\MOC20483C_11_2020\Module_3_4_5\CustomTypes\obj\Debug\netcoreapp3.1\CustomTypes.genruntimeconfig.cache

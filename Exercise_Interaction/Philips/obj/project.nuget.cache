@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rWD9IrUmK7BPj8cQZjOjswaOBbxnQv3kbM6rPnjIV/ILXvlyghd1oehWN0vXO/iD6dvNy/HOUEjAacPo3oqciQ==",
+  "success": true,
+  "projectFilePath": "E:\\MOC20483C_11_2020\\Exercise_Interaction\\Philips\\Philips.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

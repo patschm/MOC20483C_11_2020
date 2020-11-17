@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "miuH9A9ekA6nD9NncxvSzQFmxLiDIJyYfRjd05/EJBcP1n0aChiPYOT6MM9iVADGq7JeIrR2ecwCB685bnNVZQ==",
+  "success": true,
+  "projectFilePath": "E:\\MOC20483C_11_2020\\Exercise_Interaction\\Jade\\Jade.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,8 @@
+E:\MOC20483C_11_2020\Exercise_Interaction\Heras\bin\Debug\netstandard2.0\Heras.deps.json
+E:\MOC20483C_11_2020\Exercise_Interaction\Heras\bin\Debug\netstandard2.0\Heras.dll
+E:\MOC20483C_11_2020\Exercise_Interaction\Heras\bin\Debug\netstandard2.0\Heras.pdb
+E:\MOC20483C_11_2020\Exercise_Interaction\Heras\obj\Debug\netstandard2.0\Heras.AssemblyInfoInputs.cache
+E:\MOC20483C_11_2020\Exercise_Interaction\Heras\obj\Debug\netstandard2.0\Heras.AssemblyInfo.cs
+E:\MOC20483C_11_2020\Exercise_Interaction\Heras\obj\Debug\netstandard2.0\Heras.csproj.CoreCompileInputs.cache
+E:\MOC20483C_11_2020\Exercise_Interaction\Heras\obj\Debug\netstandard2.0\Heras.dll
+E:\MOC20483C_11_2020\Exercise_Interaction\Heras\obj\Debug\netstandard2.0\Heras.pdb

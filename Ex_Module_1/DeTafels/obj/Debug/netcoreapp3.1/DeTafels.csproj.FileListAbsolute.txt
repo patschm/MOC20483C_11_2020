@@ -1,0 +1,13 @@
+E:\MOC20483C_11_2020\Ex_Module_1\DeTafels\bin\Debug\netcoreapp3.1\DeTafels.exe
+E:\MOC20483C_11_2020\Ex_Module_1\DeTafels\bin\Debug\netcoreapp3.1\DeTafels.deps.json
+E:\MOC20483C_11_2020\Ex_Module_1\DeTafels\bin\Debug\netcoreapp3.1\DeTafels.runtimeconfig.json
+E:\MOC20483C_11_2020\Ex_Module_1\DeTafels\bin\Debug\netcoreapp3.1\DeTafels.runtimeconfig.dev.json
+E:\MOC20483C_11_2020\Ex_Module_1\DeTafels\bin\Debug\netcoreapp3.1\DeTafels.dll
+E:\MOC20483C_11_2020\Ex_Module_1\DeTafels\bin\Debug\netcoreapp3.1\DeTafels.pdb
+E:\MOC20483C_11_2020\Ex_Module_1\DeTafels\obj\Debug\netcoreapp3.1\DeTafels.csprojAssemblyReference.cache
+E:\MOC20483C_11_2020\Ex_Module_1\DeTafels\obj\Debug\netcoreapp3.1\DeTafels.AssemblyInfoInputs.cache
+E:\MOC20483C_11_2020\Ex_Module_1\DeTafels\obj\Debug\netcoreapp3.1\DeTafels.AssemblyInfo.cs
+E:\MOC20483C_11_2020\Ex_Module_1\DeTafels\obj\Debug\netcoreapp3.1\DeTafels.csproj.CoreCompileInputs.cache
+E:\MOC20483C_11_2020\Ex_Module_1\DeTafels\obj\Debug\netcoreapp3.1\DeTafels.dll
+E:\MOC20483C_11_2020\Ex_Module_1\DeTafels\obj\Debug\netcoreapp3.1\DeTafels.pdb
+E:\MOC20483C_11_2020\Ex_Module_1\DeTafels\obj\Debug\netcoreapp3.1\DeTafels.genruntimeconfig.cache

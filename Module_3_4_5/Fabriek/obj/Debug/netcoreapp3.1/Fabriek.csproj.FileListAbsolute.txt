@@ -1,0 +1,13 @@
+E:\MOC20483C_11_2020\Module_3_4_5\Fabriek\bin\Debug\netcoreapp3.1\Fabriek.exe
+E:\MOC20483C_11_2020\Module_3_4_5\Fabriek\bin\Debug\netcoreapp3.1\Fabriek.deps.json
+E:\MOC20483C_11_2020\Module_3_4_5\Fabriek\bin\Debug\netcoreapp3.1\Fabriek.runtimeconfig.json
+E:\MOC20483C_11_2020\Module_3_4_5\Fabriek\bin\Debug\netcoreapp3.1\Fabriek.runtimeconfig.dev.json
+E:\MOC20483C_11_2020\Module_3_4_5\Fabriek\bin\Debug\netcoreapp3.1\Fabriek.dll
+E:\MOC20483C_11_2020\Module_3_4_5\Fabriek\bin\Debug\netcoreapp3.1\Fabriek.pdb
+E:\MOC20483C_11_2020\Module_3_4_5\Fabriek\obj\Debug\netcoreapp3.1\Fabriek.csprojAssemblyReference.cache
+E:\MOC20483C_11_2020\Module_3_4_5\Fabriek\obj\Debug\netcoreapp3.1\Fabriek.AssemblyInfoInputs.cache
+E:\MOC20483C_11_2020\Module_3_4_5\Fabriek\obj\Debug\netcoreapp3.1\Fabriek.AssemblyInfo.cs
+E:\MOC20483C_11_2020\Module_3_4_5\Fabriek\obj\Debug\netcoreapp3.1\Fabriek.csproj.CoreCompileInputs.cache
+E:\MOC20483C_11_2020\Module_3_4_5\Fabriek\obj\Debug\netcoreapp3.1\Fabriek.dll
+E:\MOC20483C_11_2020\Module_3_4_5\Fabriek\obj\Debug\netcoreapp3.1\Fabriek.pdb
+E:\MOC20483C_11_2020\Module_3_4_5\Fabriek\obj\Debug\netcoreapp3.1\Fabriek.genruntimeconfig.cache

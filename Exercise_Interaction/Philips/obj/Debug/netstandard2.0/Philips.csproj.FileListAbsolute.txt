@@ -1,0 +1,9 @@
+E:\MOC20483C_11_2020\Exercise_Interaction\Philips\bin\Debug\netstandard2.0\Philips.deps.json
+E:\MOC20483C_11_2020\Exercise_Interaction\Philips\bin\Debug\netstandard2.0\Philips.dll
+E:\MOC20483C_11_2020\Exercise_Interaction\Philips\bin\Debug\netstandard2.0\Philips.pdb
+E:\MOC20483C_11_2020\Exercise_Interaction\Philips\obj\Debug\netstandard2.0\Philips.csprojAssemblyReference.cache
+E:\MOC20483C_11_2020\Exercise_Interaction\Philips\obj\Debug\netstandard2.0\Philips.AssemblyInfoInputs.cache
+E:\MOC20483C_11_2020\Exercise_Interaction\Philips\obj\Debug\netstandard2.0\Philips.AssemblyInfo.cs
+E:\MOC20483C_11_2020\Exercise_Interaction\Philips\obj\Debug\netstandard2.0\Philips.csproj.CoreCompileInputs.cache
+E:\MOC20483C_11_2020\Exercise_Interaction\Philips\obj\Debug\netstandard2.0\Philips.dll
+E:\MOC20483C_11_2020\Exercise_Interaction\Philips\obj\Debug\netstandard2.0\Philips.pdb

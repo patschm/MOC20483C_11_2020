@@ -1,0 +1,13 @@
+E:\MOC20483C_11_2020\Exercise_Interaction\Mijnhuis\bin\Debug\netcoreapp3.1\Mijnhuis.exe
+E:\MOC20483C_11_2020\Exercise_Interaction\Mijnhuis\bin\Debug\netcoreapp3.1\Mijnhuis.deps.json
+E:\MOC20483C_11_2020\Exercise_Interaction\Mijnhuis\bin\Debug\netcoreapp3.1\Mijnhuis.runtimeconfig.json
+E:\MOC20483C_11_2020\Exercise_Interaction\Mijnhuis\bin\Debug\netcoreapp3.1\Mijnhuis.runtimeconfig.dev.json
+E:\MOC20483C_11_2020\Exercise_Interaction\Mijnhuis\bin\Debug\netcoreapp3.1\Mijnhuis.dll
+E:\MOC20483C_11_2020\Exercise_Interaction\Mijnhuis\bin\Debug\netcoreapp3.1\Mijnhuis.pdb
+E:\MOC20483C_11_2020\Exercise_Interaction\Mijnhuis\obj\Debug\netcoreapp3.1\Mijnhuis.csprojAssemblyReference.cache
+E:\MOC20483C_11_2020\Exercise_Interaction\Mijnhuis\obj\Debug\netcoreapp3.1\Mijnhuis.AssemblyInfoInputs.cache
+E:\MOC20483C_11_2020\Exercise_Interaction\Mijnhuis\obj\Debug\netcoreapp3.1\Mijnhuis.AssemblyInfo.cs
+E:\MOC20483C_11_2020\Exercise_Interaction\Mijnhuis\obj\Debug\netcoreapp3.1\Mijnhuis.csproj.CoreCompileInputs.cache
+E:\MOC20483C_11_2020\Exercise_Interaction\Mijnhuis\obj\Debug\netcoreapp3.1\Mijnhuis.dll
+E:\MOC20483C_11_2020\Exercise_Interaction\Mijnhuis\obj\Debug\netcoreapp3.1\Mijnhuis.pdb
+E:\MOC20483C_11_2020\Exercise_Interaction\Mijnhuis\obj\Debug\netcoreapp3.1\Mijnhuis.genruntimeconfig.cache

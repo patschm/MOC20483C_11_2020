@@ -1,0 +1,13 @@
+E:\MOC20483C_11_2020\Module_1\Basics\bin\Debug\netcoreapp3.1\Basics.exe
+E:\MOC20483C_11_2020\Module_1\Basics\bin\Debug\netcoreapp3.1\Basics.deps.json
+E:\MOC20483C_11_2020\Module_1\Basics\bin\Debug\netcoreapp3.1\Basics.runtimeconfig.json
+E:\MOC20483C_11_2020\Module_1\Basics\bin\Debug\netcoreapp3.1\Basics.runtimeconfig.dev.json
+E:\MOC20483C_11_2020\Module_1\Basics\bin\Debug\netcoreapp3.1\Basics.dll
+E:\MOC20483C_11_2020\Module_1\Basics\bin\Debug\netcoreapp3.1\Basics.pdb
+E:\MOC20483C_11_2020\Module_1\Basics\obj\Debug\netcoreapp3.1\Basics.csprojAssemblyReference.cache
+E:\MOC20483C_11_2020\Module_1\Basics\obj\Debug\netcoreapp3.1\Basics.AssemblyInfoInputs.cache
+E:\MOC20483C_11_2020\Module_1\Basics\obj\Debug\netcoreapp3.1\Basics.AssemblyInfo.cs
+E:\MOC20483C_11_2020\Module_1\Basics\obj\Debug\netcoreapp3.1\Basics.csproj.CoreCompileInputs.cache
+E:\MOC20483C_11_2020\Module_1\Basics\obj\Debug\netcoreapp3.1\Basics.dll
+E:\MOC20483C_11_2020\Module_1\Basics\obj\Debug\netcoreapp3.1\Basics.pdb
+E:\MOC20483C_11_2020\Module_1\Basics\obj\Debug\netcoreapp3.1\Basics.genruntimeconfig.cache
