@@ -1,0 +1,13 @@
+E:\MOC20483C_11_2020\Module_8\WebClient\bin\Debug\netcoreapp3.1\WebClient.exe
+E:\MOC20483C_11_2020\Module_8\WebClient\bin\Debug\netcoreapp3.1\WebClient.deps.json
+E:\MOC20483C_11_2020\Module_8\WebClient\bin\Debug\netcoreapp3.1\WebClient.runtimeconfig.json
+E:\MOC20483C_11_2020\Module_8\WebClient\bin\Debug\netcoreapp3.1\WebClient.runtimeconfig.dev.json
+E:\MOC20483C_11_2020\Module_8\WebClient\bin\Debug\netcoreapp3.1\WebClient.dll
+E:\MOC20483C_11_2020\Module_8\WebClient\bin\Debug\netcoreapp3.1\WebClient.pdb
+E:\MOC20483C_11_2020\Module_8\WebClient\obj\Debug\netcoreapp3.1\WebClient.csprojAssemblyReference.cache
+E:\MOC20483C_11_2020\Module_8\WebClient\obj\Debug\netcoreapp3.1\WebClient.AssemblyInfoInputs.cache
+E:\MOC20483C_11_2020\Module_8\WebClient\obj\Debug\netcoreapp3.1\WebClient.AssemblyInfo.cs
+E:\MOC20483C_11_2020\Module_8\WebClient\obj\Debug\netcoreapp3.1\WebClient.csproj.CoreCompileInputs.cache
+E:\MOC20483C_11_2020\Module_8\WebClient\obj\Debug\netcoreapp3.1\WebClient.dll
+E:\MOC20483C_11_2020\Module_8\WebClient\obj\Debug\netcoreapp3.1\WebClient.pdb
+E:\MOC20483C_11_2020\Module_8\WebClient\obj\Debug\netcoreapp3.1\WebClient.genruntimeconfig.cache
