@@ -34,15 +34,18 @@ namespace RssReader
         {
             StreamReader rdr = new StreamReader(str);
             string data = rdr.ReadToEnd();
-            Regex reg = new Regex("<item>.*<title>(?<title>.*)</title>.*<description>(?<desc>.*)</description>.*</item>", RegexOptions.Multiline);
+            Regex reg = new Regex(@"<item>.*?<title>(?<title>.*?)</title>.*?<description>(?<desc>.*?)</description>.*?<category>(?<cat>.*?)</category>.*?</item>", RegexOptions.None);
             var mc = reg.Matches(data);
+            List<Item> items = new List<Item>();
             foreach(Match it in mc)
             {
-                var title = it.Groups["title"].Value;
-                Console.WriteLine(title);
-                var val = it.Groups["desc"].Value;
-                Console.WriteLine(val);
+                items.Add(new Item { 
+                Title = it.Groups["title"].Value,
+                Description = it.Groups["desc"].Value,
+                Category = it.Groups["cat"].Value
+                });
             }
+            ShowItems(items);
         }
 
         private static void WithLinqToXml(Stream str)
