@@ -1,0 +1,13 @@
+E:\MOC20483C_11_2020\Module_8\RssReader\bin\Debug\netcoreapp3.1\RssReader.exe
+E:\MOC20483C_11_2020\Module_8\RssReader\bin\Debug\netcoreapp3.1\RssReader.deps.json
+E:\MOC20483C_11_2020\Module_8\RssReader\bin\Debug\netcoreapp3.1\RssReader.runtimeconfig.json
+E:\MOC20483C_11_2020\Module_8\RssReader\bin\Debug\netcoreapp3.1\RssReader.runtimeconfig.dev.json
+E:\MOC20483C_11_2020\Module_8\RssReader\bin\Debug\netcoreapp3.1\RssReader.dll
+E:\MOC20483C_11_2020\Module_8\RssReader\bin\Debug\netcoreapp3.1\RssReader.pdb
+E:\MOC20483C_11_2020\Module_8\RssReader\obj\Debug\netcoreapp3.1\RssReader.csprojAssemblyReference.cache
+E:\MOC20483C_11_2020\Module_8\RssReader\obj\Debug\netcoreapp3.1\RssReader.AssemblyInfoInputs.cache
+E:\MOC20483C_11_2020\Module_8\RssReader\obj\Debug\netcoreapp3.1\RssReader.AssemblyInfo.cs
+E:\MOC20483C_11_2020\Module_8\RssReader\obj\Debug\netcoreapp3.1\RssReader.csproj.CoreCompileInputs.cache
+E:\MOC20483C_11_2020\Module_8\RssReader\obj\Debug\netcoreapp3.1\RssReader.dll
+E:\MOC20483C_11_2020\Module_8\RssReader\obj\Debug\netcoreapp3.1\RssReader.pdb
+E:\MOC20483C_11_2020\Module_8\RssReader\obj\Debug\netcoreapp3.1\RssReader.genruntimeconfig.cache

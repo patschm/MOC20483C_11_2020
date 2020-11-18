@@ -9,19 +9,17 @@ namespace WebClient
     {
         static void Main(string[] args)
         {
-            OuweMeuk();
-            //VoorDeModerneMensch();
-
+            //OuweMeuk();
+            VoorDeModerneMensch();
         }
 
+        static HttpClient client = new HttpClient { BaseAddress = new Uri("https://www.nu.nl/") };
+        
         private static void VoorDeModerneMensch()
         {
             //HttpClientHandler hdl = new HttpClientHandler();
             //hdl.Credentials = CredentialCache.DefaultCredentials;
             
-            HttpClient client = new HttpClient();
-            client.BaseAddress = new Uri("https://www.nu.nl/");
-
             HttpResponseMessage resp =  client.GetAsync("rss").Result;
             if (resp.IsSuccessStatusCode)
             {
@@ -29,6 +27,8 @@ namespace WebClient
                 string date = resp.Content.ReadAsStringAsync().Result;
                 Console.WriteLine(date);
             }
+
+            //client.Dispose();
         }
 
         private static void OuweMeuk()
@@ -39,7 +39,7 @@ namespace WebClient
             //FileWebRequest
             //WebResponse
 
-            WebRequest req = WebRequest.Create("ftp://www.nu.nl/rss");
+            //WebRequest req = WebRequest.Create("ftp://www.nu.nl/rss");
             HttpWebRequest request = WebRequest.Create("http://www.nu.nl/rss") as HttpWebRequest;
             // NetworkCredential ncrted = new NetworkCredential("aaa", "www");
             //request.Credentials = ncrted;
