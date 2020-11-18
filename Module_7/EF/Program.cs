@@ -31,7 +31,10 @@ namespace EF
             //ctx.Remove(p);
             //ctx.SaveChanges();
 
-            var query = ctx.People.Include(p=>p.Addresses).ThenInclude(pa=>pa.Address);
+            var query = ctx.People
+                .Include(p => p.Addresses)
+                    .ThenInclude(pa => pa.Address)
+                .Where(p => p.ID > 0);
 
             foreach(Person p in query)
             {
