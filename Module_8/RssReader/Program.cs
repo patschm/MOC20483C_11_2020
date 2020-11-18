@@ -24,9 +24,9 @@ namespace RssReader
             if (response.StatusCode == HttpStatusCode.OK)
             {
                 Stream str = response.GetResponseStream();
-                WithXmlSerializer(str);
+                //WithXmlSerializer(str);
                 //WithLinqToXml(str);
-                //WithRegularExpressions(str);
+                WithRegularExpressions(str);
             }
         }
 
@@ -34,14 +34,14 @@ namespace RssReader
         {
             StreamReader rdr = new StreamReader(str);
             string data = rdr.ReadToEnd();
-            Regex reg = new Regex("<item>.*<description>(.*)</description>.*</item>");
+            Regex reg = new Regex("<item>.*<title>(?<title>.*)</title>.*<description>(?<desc>.*)</description>.*</item>", RegexOptions.Multiline);
             var mc = reg.Matches(data);
             foreach(Match it in mc)
             {
-                foreach(Group g in it.Groups)
-                {
-                    Console.WriteLine(g.Value);
-                }
+                var title = it.Groups["title"].Value;
+                Console.WriteLine(title);
+                var val = it.Groups["desc"].Value;
+                Console.WriteLine(val);
             }
         }
 
