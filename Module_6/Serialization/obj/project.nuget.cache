@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "H8QF7J5L2UbQ58IUv83ckEt+AddFFM8pOrBHXuk3lN/xeeZMybgtTPC1SU/IEkmusGIx5b0W236quBojr6VdRA==",
+  "success": true,
+  "projectFilePath": "E:\\MOC20483C_11_2020\\Module_6\\Serialization\\Serialization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\bogus\\31.0.3\\bogus.31.0.3.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\soapformatter\\1.0.11\\soapformatter.1.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

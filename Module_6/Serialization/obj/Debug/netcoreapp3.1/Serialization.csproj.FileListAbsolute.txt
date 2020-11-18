@@ -1,0 +1,17 @@
+E:\MOC20483C_11_2020\Module_6\Serialization\bin\Debug\netcoreapp3.1\Serialization.exe
+E:\MOC20483C_11_2020\Module_6\Serialization\bin\Debug\netcoreapp3.1\Serialization.deps.json
+E:\MOC20483C_11_2020\Module_6\Serialization\bin\Debug\netcoreapp3.1\Serialization.runtimeconfig.json
+E:\MOC20483C_11_2020\Module_6\Serialization\bin\Debug\netcoreapp3.1\Serialization.runtimeconfig.dev.json
+E:\MOC20483C_11_2020\Module_6\Serialization\bin\Debug\netcoreapp3.1\Serialization.dll
+E:\MOC20483C_11_2020\Module_6\Serialization\bin\Debug\netcoreapp3.1\Serialization.pdb
+E:\MOC20483C_11_2020\Module_6\Serialization\bin\Debug\netcoreapp3.1\Bogus.dll
+E:\MOC20483C_11_2020\Module_6\Serialization\obj\Debug\netcoreapp3.1\Serialization.csprojAssemblyReference.cache
+E:\MOC20483C_11_2020\Module_6\Serialization\obj\Debug\netcoreapp3.1\Serialization.AssemblyInfoInputs.cache
+E:\MOC20483C_11_2020\Module_6\Serialization\obj\Debug\netcoreapp3.1\Serialization.AssemblyInfo.cs
+E:\MOC20483C_11_2020\Module_6\Serialization\obj\Debug\netcoreapp3.1\Serialization.csproj.CoreCompileInputs.cache
+E:\MOC20483C_11_2020\Module_6\Serialization\obj\Debug\netcoreapp3.1\Serialization.csproj.CopyComplete
+E:\MOC20483C_11_2020\Module_6\Serialization\obj\Debug\netcoreapp3.1\Serialization.dll
+E:\MOC20483C_11_2020\Module_6\Serialization\obj\Debug\netcoreapp3.1\Serialization.pdb
+E:\MOC20483C_11_2020\Module_6\Serialization\obj\Debug\netcoreapp3.1\Serialization.genruntimeconfig.cache
+E:\MOC20483C_11_2020\Module_6\Serialization\bin\Debug\netcoreapp3.1\SoapFormatter.dll
+E:\MOC20483C_11_2020\Module_6\Serialization\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll

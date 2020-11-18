@@ -1,0 +1,13 @@
+E:\MOC20483C_11_2020\Module_6\FilesEtc\bin\Debug\netcoreapp3.1\FilesEtc.exe
+E:\MOC20483C_11_2020\Module_6\FilesEtc\bin\Debug\netcoreapp3.1\FilesEtc.deps.json
+E:\MOC20483C_11_2020\Module_6\FilesEtc\bin\Debug\netcoreapp3.1\FilesEtc.runtimeconfig.json
+E:\MOC20483C_11_2020\Module_6\FilesEtc\bin\Debug\netcoreapp3.1\FilesEtc.runtimeconfig.dev.json
+E:\MOC20483C_11_2020\Module_6\FilesEtc\bin\Debug\netcoreapp3.1\FilesEtc.dll
+E:\MOC20483C_11_2020\Module_6\FilesEtc\bin\Debug\netcoreapp3.1\FilesEtc.pdb
+E:\MOC20483C_11_2020\Module_6\FilesEtc\obj\Debug\netcoreapp3.1\FilesEtc.csprojAssemblyReference.cache
+E:\MOC20483C_11_2020\Module_6\FilesEtc\obj\Debug\netcoreapp3.1\FilesEtc.AssemblyInfoInputs.cache
+E:\MOC20483C_11_2020\Module_6\FilesEtc\obj\Debug\netcoreapp3.1\FilesEtc.AssemblyInfo.cs
+E:\MOC20483C_11_2020\Module_6\FilesEtc\obj\Debug\netcoreapp3.1\FilesEtc.csproj.CoreCompileInputs.cache
+E:\MOC20483C_11_2020\Module_6\FilesEtc\obj\Debug\netcoreapp3.1\FilesEtc.dll
+E:\MOC20483C_11_2020\Module_6\FilesEtc\obj\Debug\netcoreapp3.1\FilesEtc.pdb
+E:\MOC20483C_11_2020\Module_6\FilesEtc\obj\Debug\netcoreapp3.1\FilesEtc.genruntimeconfig.cache
