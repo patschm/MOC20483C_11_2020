@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace ConsoleCalc
@@ -7,14 +8,86 @@ namespace ConsoleCalc
     {
         static void Main(string[] args)
         {
+           
             //TestSynchronous();
             //TestAPM();
-            TestTPL();
+            //TestTPL();
+            //TestHipster();
+            //MoreFunWithTasks();
+            TestFouten();
             Console.WriteLine("En verder....");
             Console.ReadLine();
         }
 
-        
+        private static async void TestFouten()
+        {
+            //ErrorTask().ContinueWith(pt => {
+            //    Console.WriteLine(pt.Status);
+            //    if (pt.Exception != null)
+            //    {
+            //        Console.WriteLine(pt.Exception.InnerException.Message);
+            //    }
+            //});
+
+            try
+            {
+                await ErrorTask();
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
+        }
+
+        static Task ErrorTask()
+        {
+            return Task.Run(() => {
+                Task.Delay(1000).Wait();
+                throw new Exception("Ooops");
+            });
+        }
+
+        private static void MoreFunWithTasks()
+        {
+            CancellationTokenSource nikko = new CancellationTokenSource();
+            DoeIetsAsync(nikko.Token);
+            Console.WriteLine("Press enter to stop.");
+            Console.ReadLine();
+            nikko.Cancel();
+            Console.WriteLine(".....");
+        }
+        static Task DoeIetsAsync(CancellationToken bommetje = default(CancellationToken))
+        {
+            return Task.Run(() => {
+                for(int i = 0; i < 100000; i++)
+                {
+                    //bommetje.ThrowIfCancellationRequested();
+                    if (bommetje.IsCancellationRequested)
+                    {
+                        return;
+                    }
+                    Task.Delay(1000).Wait();
+                    Console.WriteLine($"Task {i}");
+                }
+            });
+        }
+
+        private static async void TestHipster()
+        {
+            //Task<decimal> t = Task.Run(() =>
+            //{
+            //    decimal res = LongAdd(3, 4);
+            //    return res;
+            //});
+
+            //decimal res = await t;  // Soft return
+            //decimal res = t.Result;
+
+            decimal res = await LongAddAsync(8, 9);
+            Console.WriteLine(res);
+            Console.WriteLine("Vervolg");
+        }
+
         private static void TestTPL()
         {
             //Task t = new Task(()=>
@@ -23,7 +96,7 @@ namespace ConsoleCalc
             //    Console.WriteLine("Doet iets");
             //});
 
-            Task<decimal> t = new Task<decimal>(() =>
+            Task<decimal> t = Task.Run(() =>
             {
                 decimal res = LongAdd(3, 4);
                 return res;
@@ -40,7 +113,7 @@ namespace ConsoleCalc
             //    Console.WriteLine(res);
             //});
 
-            t.Start();
+           // t.Start();
 
 
         }
