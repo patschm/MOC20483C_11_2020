@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Concurrent;
+using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 
@@ -6,17 +8,70 @@ namespace ConsoleCalc
 {
     class Program
     {
+
+
         static void Main(string[] args)
         {
-           
+
             //TestSynchronous();
             //TestAPM();
             //TestTPL();
             //TestHipster();
             //MoreFunWithTasks();
-            TestFouten();
+            //TestFouten();
+            //EchtParallelAsync();
+            SharingIsCaring();
             Console.WriteLine("En verder....");
             Console.ReadLine();
+        }
+
+        static object stokje = new object();
+
+        private static void SharingIsCaring()
+        {
+            int number = 0;
+
+            ConcurrentBag<string> bag = new ConcurrentBag<string>();
+            ConcurrentDictionary<int, int> big1;
+
+            bag.Add("hoi");
+            bag.ToList();
+
+            //Parallel.For(0, 10, idx => { });
+
+            for(int i = 0; i < 10; i++)
+            {
+                Task.Run(() => {
+                    lock (stokje)
+                    {
+                        int tmp = number;
+                        Task.Delay(1000).Wait();
+                        number = ++tmp;
+                        Console.WriteLine(number);
+                    }
+                });
+            }
+
+        }
+
+        private static async Task EchtParallelAsync()
+        {
+            int a = 0, b = 0;
+
+            var t1 = Task.Run(() =>
+                {
+                    Task.Delay(2000).Wait();
+                    return 10;
+                }).ContinueWith(pt => a = pt.Result);
+            var t2 = Task.Run(() =>
+            {
+                Task.Delay(4000).Wait();
+                return 20;
+            }).ContinueWith(pt => b = pt.Result);
+
+            await Task.WhenAll(t1, t2);
+            int res = a + b;
+            Console.WriteLine(res);
         }
 
         private static async void TestFouten()
@@ -41,7 +96,8 @@ namespace ConsoleCalc
 
         static Task ErrorTask()
         {
-            return Task.Run(() => {
+            return Task.Run(() =>
+            {
                 Task.Delay(1000).Wait();
                 throw new Exception("Ooops");
             });
@@ -58,8 +114,9 @@ namespace ConsoleCalc
         }
         static Task DoeIetsAsync(CancellationToken bommetje = default(CancellationToken))
         {
-            return Task.Run(() => {
-                for(int i = 0; i < 100000; i++)
+            return Task.Run(() =>
+            {
+                for (int i = 0; i < 100000; i++)
                 {
                     //bommetje.ThrowIfCancellationRequested();
                     if (bommetje.IsCancellationRequested)
@@ -113,7 +170,7 @@ namespace ConsoleCalc
             //    Console.WriteLine(res);
             //});
 
-           // t.Start();
+            // t.Start();
 
 
         }
@@ -125,7 +182,7 @@ namespace ConsoleCalc
             Func<decimal, decimal, decimal> d = LongAdd;
             IAsyncResult ar = d.BeginInvoke(3, 4, null, null);
 
-            while(!ar.IsCompleted)
+            while (!ar.IsCompleted)
             {
                 Console.Write(".");
                 Task.Delay(200).Wait();
