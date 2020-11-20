@@ -5,5 +5,10 @@
         public int A { get; set; }
         public int B { get; set; }
         public int Answer { get; set; }
+
+        public override string ToString()
+        {
+            return "Test";
+        }
     }
 }

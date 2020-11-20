@@ -6,10 +6,25 @@
         xmlns:local="clr-namespace:WpfCalculator"
         mc:Ignorable="d"
         Title="MainWindow" Height="400" Width="600">
+    <Window.Resources>
+        <Style TargetType="TextBlock">
+            <Setter Property="FontSize" Value="36"></Setter>
+            <Setter Property="Margin" Value="20, 30"></Setter>
+        </Style>
+        <Style TargetType="TextBox">
+            <Setter Property="FontSize" Value="36"></Setter>
+            <Setter Property="Margin" Value="20, 25"></Setter>
+        </Style>
+        <Style x:Key="big" TargetType="TextBlock">
+            <Setter Property="FontSize" Value="42"></Setter>
+            <Setter Property="Margin" Value="20, 20"></Setter>
+        </Style>
+    </Window.Resources>
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="70"></ColumnDefinition>
             <ColumnDefinition Width="150"></ColumnDefinition>
+            <ColumnDefinition Width="120"></ColumnDefinition>
             <ColumnDefinition Width="*"></ColumnDefinition>
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
@@ -18,14 +33,44 @@
             <RowDefinition Height="100"></RowDefinition>
         </Grid.RowDefinitions>
 
-        <TextBlock Grid.Row="0" Grid.Column="0" Text="A" FontSize="36" Margin="20, 30"></TextBlock>
-        <TextBlock Grid.Row="1" Grid.Column="0" Text="B" FontSize="36" Margin="20, 30"></TextBlock>
-        <TextBox Text="{Binding A, Mode=TwoWay}" Grid.Row="0" Grid.Column="1" FontSize="36" Margin="20, 25"></TextBox>
-        <TextBox Text="{Binding B, Mode=TwoWay}" Grid.Row="1" Grid.Column="1" FontSize="36" Margin="20, 25"></TextBox>
-        <TextBlock Text="{Binding Answer, Mode=TwoWay}" Grid.Row="3" Grid.Column="1" Grid.ColumnSpan="2" FontSize="36" Margin="20, 30"></TextBlock>
+        <TextBlock Grid.Row="0" Grid.Column="0" Text="A"></TextBlock>
+        <TextBlock Grid.Row="1" Grid.Column="0" Text="B"></TextBlock>
+        <TextBox Text="{Binding A, Mode=TwoWay}" Grid.Row="0" Grid.Column="1"></TextBox>
+        <TextBox Text="{Binding B, Mode=TwoWay}" Grid.Row="1" Grid.Column="1"></TextBox>
+        <TextBlock Style="{Binding Source={StaticResource big}}" Text="{Binding Answer, Mode=TwoWay}" Grid.Row="3" Grid.Column="1" Grid.ColumnSpan="2"></TextBlock>
 
         <Button Grid.Column="2" Grid.Row="0" Grid.RowSpan="2" Click="Button_Click"
-                FontSize="48" Margin="10, 50" HorizontalAlignment="Left" Content="+" Width="100" Height="100"></Button>
+                FontSize="48" Margin="10, 50" HorizontalAlignment="Left" Width="100" Height="100">
+            <Button.Content>
+                <MediaElement Source="Wildlife.wmv"></MediaElement>
+            </Button.Content>
+            <Button.RenderTransform>
+                <RotateTransform x:Name="rot" Angle="0" CenterX="50" CenterY="50"></RotateTransform>
+            </Button.RenderTransform>
+            <Button.Triggers>
+                <EventTrigger RoutedEvent="Button.Click">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation Storyboard.TargetName="rot" Storyboard.TargetProperty="Angle" From="0" To="360" Duration="0:0:2"></DoubleAnimation>
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </Button.Triggers>
+        </Button>
+
+        <ListView ItemsSource="{Binding History, Mode=TwoWay}" Grid.Row="0" Grid.Column="3" Grid.RowSpan="3" Margin="10">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="{Binding A}"></TextBlock>
+                        <TextBlock Text=" + "></TextBlock>
+                        <TextBlock Text="{Binding B}"></TextBlock>
+                        <TextBlock Text="  "></TextBlock>
+                        <TextBlock Text="{Binding Answer}"></TextBlock>
+                    </StackPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
         
     </Grid>
 </Window>
