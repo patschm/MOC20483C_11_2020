@@ -21,10 +21,17 @@ namespace WpfCalculator
     /// </summary>
     public partial class MainWindow : Window
     {
+        private MainWindowsViewModel model = new MainWindowsViewModel { A = 0, B = 0, Answer = 0 };
         public MainWindow()
         {
             InitializeComponent();
-            DataContext = new MainWindowsViewModel { A = 100, B = 200, Answer = 300 };
+            DataContext = model;
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            model.Answer = model.A + model.B;
+            model.History.Add(new Sum { A = model.A, B = model.B, Answer = model.Answer });
         }
     }
 }
